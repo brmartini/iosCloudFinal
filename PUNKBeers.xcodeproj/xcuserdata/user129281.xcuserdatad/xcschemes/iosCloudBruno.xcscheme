@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5EBB3BB01F21810900F1BA18"
-               BuildableName = "iosCloudBruno.app"
-               BlueprintName = "iosCloudBruno"
-               ReferencedContainer = "container:iosCloudBruno.xcodeproj">
+               BuildableName = "PUNKBeers.app"
+               BlueprintName = "PUNKBeers"
+               ReferencedContainer = "container:PUNKBeers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5EBB3BC41F21810900F1BA18"
-               BuildableName = "iosCloudBrunoTests.xctest"
-               BlueprintName = "iosCloudBrunoTests"
-               ReferencedContainer = "container:iosCloudBruno.xcodeproj">
+               BuildableName = "PUNKBeersTests.xctest"
+               BlueprintName = "PUNKBeersTests"
+               ReferencedContainer = "container:PUNKBeers.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5EBB3BCF1F21810900F1BA18"
-               BuildableName = "iosCloudBrunoUITests.xctest"
-               BlueprintName = "iosCloudBrunoUITests"
-               ReferencedContainer = "container:iosCloudBruno.xcodeproj">
+               BuildableName = "PUNKBeersUITests.xctest"
+               BlueprintName = "PUNKBeersUITests"
+               ReferencedContainer = "container:PUNKBeers.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5EBB3BB01F21810900F1BA18"
-            BuildableName = "iosCloudBruno.app"
-            BlueprintName = "iosCloudBruno"
-            ReferencedContainer = "container:iosCloudBruno.xcodeproj">
+            BuildableName = "PUNKBeers.app"
+            BlueprintName = "PUNKBeers"
+            ReferencedContainer = "container:PUNKBeers.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5EBB3BB01F21810900F1BA18"
-            BuildableName = "iosCloudBruno.app"
-            BlueprintName = "iosCloudBruno"
-            ReferencedContainer = "container:iosCloudBruno.xcodeproj">
+            BuildableName = "PUNKBeers.app"
+            BlueprintName = "PUNKBeers"
+            ReferencedContainer = "container:PUNKBeers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5EBB3BB01F21810900F1BA18"
-            BuildableName = "iosCloudBruno.app"
-            BlueprintName = "iosCloudBruno"
-            ReferencedContainer = "container:iosCloudBruno.xcodeproj">
+            BuildableName = "PUNKBeers.app"
+            BlueprintName = "PUNKBeers"
+            ReferencedContainer = "container:PUNKBeers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

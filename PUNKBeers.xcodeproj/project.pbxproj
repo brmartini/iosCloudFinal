@@ -38,17 +38,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5EBB3BB11F21810900F1BA18 /* iosCloudBruno.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosCloudBruno.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EBB3BB11F21810900F1BA18 /* PUNKBeers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PUNKBeers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EBB3BB41F21810900F1BA18 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5EBB3BB61F21810900F1BA18 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5EBB3BB91F21810900F1BA18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5EBB3BBB1F21810900F1BA18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5EBB3BBE1F21810900F1BA18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5EBB3BC01F21810900F1BA18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5EBB3BC51F21810900F1BA18 /* iosCloudBrunoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosCloudBrunoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EBB3BC51F21810900F1BA18 /* PUNKBeersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PUNKBeersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EBB3BC91F21810900F1BA18 /* iosCloudBrunoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosCloudBrunoTests.swift; sourceTree = "<group>"; };
 		5EBB3BCB1F21810900F1BA18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5EBB3BD01F21810900F1BA18 /* iosCloudBrunoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosCloudBrunoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EBB3BD01F21810900F1BA18 /* PUNKBeersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PUNKBeersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EBB3BD41F21810900F1BA18 /* iosCloudBrunoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosCloudBrunoUITests.swift; sourceTree = "<group>"; };
 		5EBB3BD61F21810900F1BA18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EBB3BE21F21847500F1BA18 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
@@ -85,7 +85,7 @@
 		5EBB3BA81F21810900F1BA18 = {
 			isa = PBXGroup;
 			children = (
-				5EBB3BB31F21810900F1BA18 /* iosCloudBruno */,
+				5EBB3BB31F21810900F1BA18 /* PUNKBeers */,
 				5EBB3BC81F21810900F1BA18 /* iosCloudBrunoTests */,
 				5EBB3BD31F21810900F1BA18 /* iosCloudBrunoUITests */,
 				5EBB3BB21F21810900F1BA18 /* Products */,
@@ -95,14 +95,14 @@
 		5EBB3BB21F21810900F1BA18 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5EBB3BB11F21810900F1BA18 /* iosCloudBruno.app */,
-				5EBB3BC51F21810900F1BA18 /* iosCloudBrunoTests.xctest */,
-				5EBB3BD01F21810900F1BA18 /* iosCloudBrunoUITests.xctest */,
+				5EBB3BB11F21810900F1BA18 /* PUNKBeers.app */,
+				5EBB3BC51F21810900F1BA18 /* PUNKBeersTests.xctest */,
+				5EBB3BD01F21810900F1BA18 /* PUNKBeersUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5EBB3BB31F21810900F1BA18 /* iosCloudBruno */ = {
+		5EBB3BB31F21810900F1BA18 /* PUNKBeers */ = {
 			isa = PBXGroup;
 			children = (
 				5EBB3BB41F21810900F1BA18 /* AppDelegate.swift */,
@@ -116,6 +116,7 @@
 				5EBB3BBD1F21810900F1BA18 /* LaunchScreen.storyboard */,
 				5EBB3BC01F21810900F1BA18 /* Info.plist */,
 			);
+			name = PUNKBeers;
 			path = iosCloudBruno;
 			sourceTree = "<group>";
 		};
@@ -140,9 +141,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5EBB3BB01F21810900F1BA18 /* iosCloudBruno */ = {
+		5EBB3BB01F21810900F1BA18 /* PUNKBeers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EBB3BD91F21810900F1BA18 /* Build configuration list for PBXNativeTarget "iosCloudBruno" */;
+			buildConfigurationList = 5EBB3BD91F21810900F1BA18 /* Build configuration list for PBXNativeTarget "PUNKBeers" */;
 			buildPhases = (
 				5EBB3BAD1F21810900F1BA18 /* Sources */,
 				5EBB3BAE1F21810900F1BA18 /* Frameworks */,
@@ -152,14 +153,14 @@
 			);
 			dependencies = (
 			);
-			name = iosCloudBruno;
+			name = PUNKBeers;
 			productName = iosCloudBruno;
-			productReference = 5EBB3BB11F21810900F1BA18 /* iosCloudBruno.app */;
+			productReference = 5EBB3BB11F21810900F1BA18 /* PUNKBeers.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5EBB3BC41F21810900F1BA18 /* iosCloudBrunoTests */ = {
+		5EBB3BC41F21810900F1BA18 /* PUNKBeersTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EBB3BDC1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "iosCloudBrunoTests" */;
+			buildConfigurationList = 5EBB3BDC1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "PUNKBeersTests" */;
 			buildPhases = (
 				5EBB3BC11F21810900F1BA18 /* Sources */,
 				5EBB3BC21F21810900F1BA18 /* Frameworks */,
@@ -170,14 +171,14 @@
 			dependencies = (
 				5EBB3BC71F21810900F1BA18 /* PBXTargetDependency */,
 			);
-			name = iosCloudBrunoTests;
+			name = PUNKBeersTests;
 			productName = iosCloudBrunoTests;
-			productReference = 5EBB3BC51F21810900F1BA18 /* iosCloudBrunoTests.xctest */;
+			productReference = 5EBB3BC51F21810900F1BA18 /* PUNKBeersTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5EBB3BCF1F21810900F1BA18 /* iosCloudBrunoUITests */ = {
+		5EBB3BCF1F21810900F1BA18 /* PUNKBeersUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EBB3BDF1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "iosCloudBrunoUITests" */;
+			buildConfigurationList = 5EBB3BDF1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "PUNKBeersUITests" */;
 			buildPhases = (
 				5EBB3BCC1F21810900F1BA18 /* Sources */,
 				5EBB3BCD1F21810900F1BA18 /* Frameworks */,
@@ -188,9 +189,9 @@
 			dependencies = (
 				5EBB3BD21F21810900F1BA18 /* PBXTargetDependency */,
 			);
-			name = iosCloudBrunoUITests;
+			name = PUNKBeersUITests;
 			productName = iosCloudBrunoUITests;
-			productReference = 5EBB3BD01F21810900F1BA18 /* iosCloudBrunoUITests.xctest */;
+			productReference = 5EBB3BD01F21810900F1BA18 /* PUNKBeersUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -219,7 +220,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5EBB3BAC1F21810900F1BA18 /* Build configuration list for PBXProject "iosCloudBruno" */;
+			buildConfigurationList = 5EBB3BAC1F21810900F1BA18 /* Build configuration list for PBXProject "PUNKBeers" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -232,9 +233,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5EBB3BB01F21810900F1BA18 /* iosCloudBruno */,
-				5EBB3BC41F21810900F1BA18 /* iosCloudBrunoTests */,
-				5EBB3BCF1F21810900F1BA18 /* iosCloudBrunoUITests */,
+				5EBB3BB01F21810900F1BA18 /* PUNKBeers */,
+				5EBB3BC41F21810900F1BA18 /* PUNKBeersTests */,
+				5EBB3BCF1F21810900F1BA18 /* PUNKBeersUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -301,12 +302,12 @@
 /* Begin PBXTargetDependency section */
 		5EBB3BC71F21810900F1BA18 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5EBB3BB01F21810900F1BA18 /* iosCloudBruno */;
+			target = 5EBB3BB01F21810900F1BA18 /* PUNKBeers */;
 			targetProxy = 5EBB3BC61F21810900F1BA18 /* PBXContainerItemProxy */;
 		};
 		5EBB3BD21F21810900F1BA18 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5EBB3BB01F21810900F1BA18 /* iosCloudBruno */;
+			target = 5EBB3BB01F21810900F1BA18 /* PUNKBeers */;
 			targetProxy = 5EBB3BD11F21810900F1BA18 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -430,7 +431,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = iosCloudBruno/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.brmart.iosCloudBruno;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.brmart.PUNKBeers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -442,7 +443,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = iosCloudBruno/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.brmart.iosCloudBruno;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.brmart.PUNKBeers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -458,7 +459,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.brmart.iosCloudBrunoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iosCloudBruno.app/iosCloudBruno";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PUNKBeers.app/PUNKBeers";
 			};
 			name = Debug;
 		};
@@ -472,7 +473,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.brmart.iosCloudBrunoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iosCloudBruno.app/iosCloudBruno";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PUNKBeers.app/PUNKBeers";
 			};
 			name = Release;
 		};
@@ -505,7 +506,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5EBB3BAC1F21810900F1BA18 /* Build configuration list for PBXProject "iosCloudBruno" */ = {
+		5EBB3BAC1F21810900F1BA18 /* Build configuration list for PBXProject "PUNKBeers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EBB3BD71F21810900F1BA18 /* Debug */,
@@ -514,29 +515,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5EBB3BD91F21810900F1BA18 /* Build configuration list for PBXNativeTarget "iosCloudBruno" */ = {
+		5EBB3BD91F21810900F1BA18 /* Build configuration list for PBXNativeTarget "PUNKBeers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EBB3BDA1F21810900F1BA18 /* Debug */,
 				5EBB3BDB1F21810900F1BA18 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		5EBB3BDC1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "iosCloudBrunoTests" */ = {
+		5EBB3BDC1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "PUNKBeersTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EBB3BDD1F21810900F1BA18 /* Debug */,
 				5EBB3BDE1F21810900F1BA18 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		5EBB3BDF1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "iosCloudBrunoUITests" */ = {
+		5EBB3BDF1F21810900F1BA18 /* Build configuration list for PBXNativeTarget "PUNKBeersUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EBB3BE01F21810900F1BA18 /* Debug */,
 				5EBB3BE11F21810900F1BA18 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

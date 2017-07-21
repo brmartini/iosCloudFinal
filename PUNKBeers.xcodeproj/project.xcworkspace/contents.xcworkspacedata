@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:iosCloudBruno.xcodeproj">
+      location = "self:/Users/user129281/Documents/iosCloud/iosCloudBruno/PUNKBeers.xcodeproj">
    </FileRef>
 </Workspace>
